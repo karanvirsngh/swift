@@ -1,6 +1,6 @@
 Description
 ===========
-Placeholder for the OpenStack Compute service `Swift` as part of the OpenStack `Essex` reference architecture using Chef. The http://github.com/opscode/openstack-chef-repo will contain documentation for using this cookbook in the context of a full OpenStack deployment.
+Placeholder for the OpenStack Object Storage service `Swift` as part of the OpenStack `Essex` reference architecture using Chef. The http://github.com/opscode/openstack-chef-repo will contain documentation for using this cookbook in the context of a full OpenStack deployment.
 
 Swift recipes will be intended for multi-node deployments but supporting a single machine install will be a special case of multi-node and managed with a role.
 
